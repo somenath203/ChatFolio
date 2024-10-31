@@ -1,5 +1,11 @@
 # ChatFolio
 
+## Demo video of the overall application
+
+![Screenshot (757)](https://github.com/user-attachments/assets/0a0a1c82-726a-46c7-92e7-ce464b4ab743)
+
+https://www.youtube.com/watch?v=RkJOtCKr0VA
+
 ## Introduction
 
 ChatFolio is a personal chatbot designed to answer questions based on my resume. It provides insights into my background, including my skills, education, projects, achievements, and certifications. By interacting with ChatFolio, users can quickly access specific information about my professional profile, allowing for a more personalized and efficient way to explore my qualifications.
