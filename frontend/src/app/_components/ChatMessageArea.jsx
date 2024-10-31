@@ -20,8 +20,8 @@ const ChatMessageArea = ({ messagesRef, messages, loading }) => {
           </h1>
 
           <p className="text-white text-xl tracking-wider font-semibold">
-            This bot, powered by the Google Gemma 2-9b-it and Groq API, is designed
-            to answer any questions related to my resume in an informative and
+            This bot, powered by the Google's Gemma 2-9b-it and Groq API, is designed
+            to answer any question related to my resume in an informative and
             engaging way.
           </p>
 
