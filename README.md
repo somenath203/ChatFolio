@@ -2,7 +2,7 @@
 
 ## Demo video of the overall application
 
-![Screenshot (757)](https://github.com/user-attachments/assets/0a0a1c82-726a-46c7-92e7-ce464b4ab743)
+![Screenshot (758)](https://github.com/user-attachments/assets/c9d61538-aede-40a0-92c7-abd5d389dc1a)
 
 https://www.youtube.com/watch?v=RkJOtCKr0VA
 
