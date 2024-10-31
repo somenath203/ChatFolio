@@ -30,7 +30,7 @@ ChatFolio is a personal chatbot designed to answer questions based on my resume.
 - **LangChain**: Implements question-answering workflows and response generation.
 - **BAAI/bge-small-en-v1.5** (from Hugging Face): A pre-trained embeddings model for encoding resume information, used in conjunction with LangChain.
 - **FAISS**: A vector database to store and search embeddings efficiently for fast and accurate results.
-- **LangChain Groq and Google’s Gemma 2-9B-IT model**: Utilized for generating accurate and context-aware answers to user's questions.
+- **LangChain Groq and Google’s Gemma 2-9B-IT model**: Used for generating accurate and context-aware answers to user's questions.
 
 ## Deployment
 
