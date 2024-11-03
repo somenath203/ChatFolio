@@ -38,8 +38,8 @@ ChatFolio is a personal chatbot designed to answer questions based on my resume.
 - **Backend**: Deployed on Hugging Face Spaces for robust backend support.
 
 - **Live Preview**: https://chatfolio-som.vercel.app/
-- **FastAPI backend URL**: https://som11-chatfoliofastapibackend.hf.space
-- **Swagger Docs of the FastAPI API**: https://som11-chatfoliofastapibackend.hf.space/docs
+- **FastAPI backend URL**: https://som180-mysomchatfolio.hf.space
+- **Swagger Docs of the FastAPI API**: https://som180-mysomchatfolio.hf.space/docs
 
 ## Disclaimer
 
