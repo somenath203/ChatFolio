@@ -2,7 +2,7 @@
 
 ## Demo video of the overall application
 
-![Screenshot (758)](https://github.com/user-attachments/assets/c9d61538-aede-40a0-92c7-abd5d389dc1a)
+<img width="1870" height="857" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/fc4273b9-823e-448b-9b5c-dea118a4e3a2" />
 
 https://www.youtube.com/watch?v=Zd9z-32qjVA
 
